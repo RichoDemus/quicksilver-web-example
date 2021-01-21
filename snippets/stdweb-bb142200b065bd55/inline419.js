@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_8ec946091bb781e760245e0ae35985deddcdbb25(Module, $0) { return (Module.STDWEB_PRIVATE.acquire_js_reference( $0 ) instanceof Float32Array) | 0; }
+export function __cargo_web_snippet_abed77e7cc03d80d1abb28aebafd33de6e8e2031(Module, $0) { Module.STDWEB_PRIVATE.from_js($0, (function(){return new FormData();})()); }

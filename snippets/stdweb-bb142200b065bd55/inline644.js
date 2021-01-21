@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_285aac3fba72d67cb459d37d4d21aa4fb62598ba(Module, $0) { Module.STDWEB_PRIVATE.arena = $0; }
+export function __cargo_web_snippet_a5c0d48a97868dbd72ddba8f4159f70cf71aa67b(Module, $0) { $0 = Module.STDWEB_PRIVATE.to_js($0);($0).normalize(); }

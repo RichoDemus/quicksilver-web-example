@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_2a444a62c56ca044bc6b33a4c4ede61ad9f9025e(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof HTMLTemplateElement); }
+export function __cargo_web_snippet_a5372d594649dd9a509ca43d5e2a2f35992a8095(Module, $0) { return Module.STDWEB_PRIVATE.acquire_rust_reference( new Uint8Array( Module.STDWEB_PRIVATE.acquire_js_reference( $0 ) ) ); }

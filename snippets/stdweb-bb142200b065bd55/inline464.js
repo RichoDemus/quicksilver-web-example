@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_fb8d8ebe187ce6b67ef49fc83d40b3d64d3ff6d9(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof TouchEvent && o.type === "touchenter"); }
+export function __cargo_web_snippet_5c57e16ebd22655f976d87fae8039e282d7bab59(Module, $0) { Module.STDWEB_PRIVATE.from_js($0, (function(){return Array.from(navigator.getGamepads());})()); }

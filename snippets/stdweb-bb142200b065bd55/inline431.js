@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_abad6e7efe50d1778e5cefe75fc227e4952de4e7(Module, $0) { return (Module.STDWEB_PRIVATE.acquire_js_reference( $0 ) instanceof Uint16Array) | 0; }
+export function __cargo_web_snippet_703f43e05bd92d1db973de93e7c5ecc2fe12b5d4(Module, $0, $1) { $1 = Module.STDWEB_PRIVATE.to_js($1);Module.STDWEB_PRIVATE.from_js($0, (function(){return Array.from(($1).changedTouches);})()); }

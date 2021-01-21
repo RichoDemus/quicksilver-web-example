@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_dc2fd915bd92f9e9c6a3bd15174f1414eee3dbaf(Module) { console.error( 'Encountered a panic!' ); }
+export function __cargo_web_snippet_f91e3759ea8e40c15404c8b089c74fe76b61421e(Module, $0) { Module.STDWEB_PRIVATE.from_js($0, (function(){return Date.now();})()); }

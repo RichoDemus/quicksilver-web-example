@@ -1,1 +1,1 @@
-export function __cargo_web_snippet_2cd1f9200b3228e3c2bfab1cac27afd46a34b4fc(Module, $0) { $0 = Module.STDWEB_PRIVATE.to_js($0);($0).deleteFromDocument(); }
+export function __cargo_web_snippet_ff987f4528f4cf27f9e0a010c9fa1de716a5de16(Module, $0) { var o = Module.STDWEB_PRIVATE.acquire_js_reference( $0 );return (o instanceof Event && o.type === "slotchange"); }
